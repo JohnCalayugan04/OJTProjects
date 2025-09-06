@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|c:\\users\\administrator\\source\\repos\\faceauth.api\\faceauth.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|solutionrelative:faceauth.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|c:\\users\\administrator\\source\\repos\\faceauth.api\\faceauth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|solutionrelative:faceauth.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|c:\\users\\administrator\\source\\repos\\faceauth.api\\faceauth.api\\models\\faceembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|solutionrelative:faceauth.api\\models\\faceembedding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|c:\\users\\administrator\\source\\repos\\faceauth.api\\faceauth.api\\dtos\\faceloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|solutionrelative:faceauth.api\\dtos\\faceloginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|c:\\users\\administrator\\source\\repos\\faceauth.api\\faceauth.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{568D5586-7B50-4736-A0D8-23656F39AABA}|FaceAuth.Api\\FaceAuth.Api.csproj|solutionrelative:faceauth.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "FaceAuth.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "FaceAuth.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAASwJYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:40:59.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Models\\User.cs",
+              "RelativeDocumentMoniker": "FaceAuth.Api\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Models\\User.cs",
+              "RelativeToolTip": "FaceAuth.Api\\Models\\User.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:33:57.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FaceEmbedding.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Models\\FaceEmbedding.cs",
+              "RelativeDocumentMoniker": "FaceAuth.Api\\Models\\FaceEmbedding.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Models\\FaceEmbedding.cs",
+              "RelativeToolTip": "FaceAuth.Api\\Models\\FaceEmbedding.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:24:36.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "FaceAuth.Api\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "FaceAuth.Api\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T00:26:42.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FaceLoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Dtos\\FaceLoginRequest.cs",
+              "RelativeDocumentMoniker": "FaceAuth.Api\\Dtos\\FaceLoginRequest.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\FaceAuth.Api\\FaceAuth.Api\\Dtos\\FaceLoginRequest.cs",
+              "RelativeToolTip": "FaceAuth.Api\\Dtos\\FaceLoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T03:38:14.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\bin\Debug\networkScanner.exe.config
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\bin\Debug\networkScanner.exe
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\bin\Debug\networkScanner.pdb
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.Form1.resources
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.Properties.Resources.resources
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.exe
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.pdb
+C:\Users\Administrator\source\repos\networkScanner\networkScanner\obj\Debug\networkScanner.exe.config
